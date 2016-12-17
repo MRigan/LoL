@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a17adc83-f0d9-4646-8557-1c9f0da3818c" name="Default" comment="" />
+    <ignored path="RITO.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RITO">
+      <favorite_root url="file://$PROJECT_DIR$/index.php" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/view.php" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/data.php" />
+        <option value="$PROJECT_DIR$/api.html" />
+        <option value="$PROJECT_DIR$/css-gangham-style/index.html" />
+        <option value="$PROJECT_DIR$/bg.php" />
+        <option value="$PROJECT_DIR$/css/style2.css" />
+        <option value="$PROJECT_DIR$/id.html" />
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/table.html" />
+        <option value="$PROJECT_DIR$/summoners.html" />
+        <option value="$PROJECT_DIR$/summoners.php" />
+        <option value="$PROJECT_DIR$/rank.php" />
+        <option value="$PROJECT_DIR$/id.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/function2.php" />
+        <option value="$PROJECT_DIR$/function3.php" />
+        <option value="$PROJECT_DIR$/function1.php" />
+        <option value="$PROJECT_DIR$/function4.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/champions.html" />
+        <option value="$PROJECT_DIR$/champions" />
+        <option value="$PROJECT_DIR$/champions.php" />
+        <option value="$PROJECT_DIR$/grid.html" />
+        <option value="$PROJECT_DIR$/vars.php" />
+        <option value="$PROJECT_DIR$/league.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RITO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RITO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RITO" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/michal/RITO/grid.html" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a17adc83-f0d9-4646-8557-1c9f0da3818c" name="Default" comment="" />
+      <created>1471645327143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471645327143</updated>
+      <workItem from="1471645328706" duration="1944000" />
+      <workItem from="1471647419326" duration="16416000" />
+      <workItem from="1471737749306" duration="15404000" />
+      <workItem from="1471800278004" duration="9523000" />
+      <workItem from="1471859523329" duration="60000" />
+      <workItem from="1472670931156" duration="5950000" />
+      <workItem from="1482006651006" duration="1498000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50795000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1440" height="813" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1456241" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17503586" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21896791" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21896791" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1456241" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17575322" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="168" column="107" selection-start-line="168" selection-start-column="107" selection-end-line="168" selection-end-column="107" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="42" selection-end-column="31" />
+          <folding>
+            <marker date="1482008135412" expanded="true" signature="611:647" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:658" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:659" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="1182:1193" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="1834:1874" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2278:2279" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2820:2850" placeholder="SELECT * FRO... rank" />
+            <marker date="1482008135412" expanded="true" signature="3379:3539" placeholder="UPDATE rank " />
+            <marker date="1482008135412" expanded="true" signature="4162:4344" placeholder="INSERT INTO rank... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <marker date="1471809455570" expanded="true" signature="1161:1185" placeholder="SELECT id FR... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1195" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1196" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1167:1185" placeholder="INSERT INTO summoners... " />
+            <marker date="1471809455570" expanded="true" signature="1797:1814" placeholder="..." />
+            <marker date="1471809455570" expanded="true" signature="2027:2101" placeholder="INSERT INTO summoners... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="73" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1472675923994" expanded="true" signature="690:738" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:739" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:743" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:745" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:746" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:752" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:754" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:762" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:764" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:765" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:768" placeholder="INSERT INTO champions... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <marker date="1482008135412" expanded="true" signature="611:647" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:658" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:659" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="1182:1193" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="1834:1874" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2278:2279" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2820:2850" placeholder="SELECT * FRO... rank" />
+            <marker date="1482008135412" expanded="true" signature="3379:3539" placeholder="UPDATE rank " />
+            <marker date="1482008135412" expanded="true" signature="4162:4344" placeholder="INSERT INTO rank... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1471809455570" expanded="true" signature="1161:1185" placeholder="SELECT id FR... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1195" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1196" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1167:1185" placeholder="INSERT INTO summoners... " />
+            <marker date="1471809455570" expanded="true" signature="1797:1814" placeholder="..." />
+            <marker date="1471809455570" expanded="true" signature="2027:2101" placeholder="INSERT INTO summoners... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1472675923994" expanded="true" signature="690:738" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:739" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:743" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:745" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:746" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:752" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:754" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:762" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:764" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:765" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:768" placeholder="INSERT INTO champions... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="144" column="5" selection-start-line="144" selection-start-column="5" selection-end-line="144" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1472675923994" expanded="true" signature="690:738" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:739" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:743" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:745" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:746" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:752" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:754" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:762" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:764" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:765" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:768" placeholder="INSERT INTO champions... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view.php" />
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/css-gangham-style/README.txt" />
+    <entry file="file://$PROJECT_DIR$/css-gangham-style/license.txt" />
+    <entry file="file://$PROJECT_DIR$/css-gangham-style/index.html" />
+    <entry file="file://$PROJECT_DIR$/images/bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="34" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="209" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg.php" />
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="38" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/json.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="199" column="9" selection-start-line="199" selection-start-column="9" selection-end-line="199" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions.html" />
+    <entry file="file://$PROJECT_DIR$/id.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1472675923994" expanded="true" signature="690:738" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:739" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:743" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:745" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:746" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:752" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:754" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:762" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:764" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:765" placeholder="INSERT INTO champions... " />
+            <marker date="1472675923994" expanded="true" signature="690:768" placeholder="INSERT INTO champions... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="150" column="60" selection-start-line="150" selection-start-column="60" selection-end-line="150" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#li#4;n#ul#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <marker date="1471653743613" expanded="true" signature="234:271" placeholder="SELECT id, i... summoners" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4428">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/champions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1472676283497" expanded="true" signature="40:79" placeholder="SELECT * FRO... champions" />
+            <marker date="1472676283497" expanded="true" signature="1147:1171" placeholder="..." />
+            <marker date="1472676283497" expanded="true" signature="1147:1296" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/id.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1988">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding>
+            <marker date="1471809455570" expanded="true" signature="1161:1185" placeholder="SELECT id FR... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1195" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1161:1196" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471809455570" expanded="true" signature="1167:1185" placeholder="INSERT INTO summoners... " />
+            <marker date="1471809455570" expanded="true" signature="1797:1814" placeholder="..." />
+            <marker date="1471809455570" expanded="true" signature="2027:2101" placeholder="INSERT INTO summoners... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1118" column="20" selection-start-line="1118" selection-start-column="20" selection-end-line="1118" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/summoners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <marker date="1471804157863" expanded="true" signature="40:63" placeholder="SELECT * FRO... summoners" />
+            <marker date="1471804157863" expanded="true" signature="1086:1110" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1118" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1156" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1157" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1202" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1203" placeholder="..." />
+            <marker date="1471804157863" expanded="true" signature="1086:1235" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1472671345014" expanded="true" signature="524:598" placeholder="INSERT INTO summoners... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/league.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <marker date="1482008135412" expanded="true" signature="611:647" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:658" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="611:659" placeholder="SELECT id FR... summoners" />
+            <marker date="1482008135412" expanded="true" signature="1182:1193" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="1834:1874" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2278:2279" placeholder="..." />
+            <marker date="1482008135412" expanded="true" signature="2820:2850" placeholder="SELECT * FRO... rank" />
+            <marker date="1482008135412" expanded="true" signature="3379:3539" placeholder="UPDATE rank " />
+            <marker date="1482008135412" expanded="true" signature="4162:4344" placeholder="INSERT INTO rank... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

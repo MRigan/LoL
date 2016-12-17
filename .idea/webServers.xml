@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="87608b0a-5ce4-462b-a059-1030a55dae93" name="rito-api.16mb.com" url="http://ftp.rito-api.16mb.com">
+        <fileTransfer host="ftp.rito-api.16mb.com" port="21" password="dfe9dfc2dfd3dfc4dfc5dfd8dfcbdfc4dfd3df9b" username="u309149150.rigino">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
